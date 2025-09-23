@@ -13,11 +13,12 @@ Each project focuses on real-world datasets and delivers clear, actionable insig
 - **Key Learning:** Automating data collection, cleaning HTML data, trend visualization.
 - **Folder:** `amazon-price-tracker/`
 
-### 2) Data Analysis – Spotify Dataset 
-- **Description:** Exploratory data analysis to understand content trends (genres, release years, countries).
-- **Tech Stack:** Python, Pandas, Seaborn, Matplotlib
-- **Key Learning:** Data cleaning, grouping, visualization and insight reporting.
-- **Folder:** `spotify-data/`
+### 2) Data Analysis – Spotify Top Hits
+- **Description:** Exploratory data analysis of Spotify’s Top Hits dataset, focusing on track popularity, artists, and audio features.
+- **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn
+- **Key Learning:** Data wrangling, statistical summaries, correlation analysis, and visualization of music-related datasets.
+- **Folder:** `spotify-top-hits/`  
+  *(includes: `Programming_TopHitsSpotify.ipynb`)*
 
 ### 3) Automation – Excel Report Generator
 - **Description:** Creates monthly sales reports (pivot-like summaries, charts) automatically.

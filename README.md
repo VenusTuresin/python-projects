@@ -17,8 +17,8 @@ Each project focuses on real-world datasets and delivers clear, actionable insig
 - **Description:** Exploratory data analysis of Spotify’s Top Hits dataset, focusing on track popularity, artists, and audio features.
 - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn
 - **Key Learning:** Data wrangling, statistical summaries, correlation analysis, and visualization of music-related datasets.
-- **Folder:** `spotify-top-hits/`  
-  *(includes: `Programming_TopHitsSpotify.ipynb`)*
+**Link**: [spotify-top-hits](./spotify-top-hits)
+- Includes: Jupyter Notebook (`Programming_TopHitsSpotify.ipynb`), dataset (`songs_normalize.csv`), and presentation (`SpotifyTopHits.pdf`)
 
 ### 3) Automation – Excel Report Generator
 - **Description:** Creates monthly sales reports (pivot-like summaries, charts) automatically.

@@ -1,16 +1,40 @@
-# Python Projects
-This repository contains a collection of Python projects I have worked on.  
-The focus is on practical applications of Python in areas such as:
+# 🐍 Python Projects
 
-- **Web Scraping** → Extracting product prices and information from websites  
-- **Data Analysis** → Cleaning, exploring, and visualizing datasets  
-- **Automation Scripts** → Simple tools to make repetitive tasks easier  
-- **Experimentation** → Trying out Python libraries and new concepts  
+This repository showcases my hands-on Python projects in **web scraping, data analysis, automation, and data visualization**.  
+Each project focuses on real-world datasets and delivers clear, actionable insights.
 
-## Tools & Libraries
-- `BeautifulSoup`, `Selenium` → for scraping  
-- `Pandas`, `NumPy` → for analysis  
-- `Matplotlib`, `Seaborn` → for visualization  
+---
 
-## Goal
-The purpose of this repo is to practice and showcase my Python skills, while building projects that solve real-world problems.
+## 📂 Projects
+
+### 1) Web Scraping – Amazon Price Tracker
+- **Description:** Scrapes product prices and tracks changes over time.
+- **Tech Stack:** Python, Requests, BeautifulSoup, Pandas, Matplotlib
+- **Key Learning:** Automating data collection, cleaning HTML data, trend visualization.
+- **Folder:** `amazon-price-tracker/`
+
+### 2) Data Analysis – Spotify Dataset 
+- **Description:** Exploratory data analysis to understand content trends (genres, release years, countries).
+- **Tech Stack:** Python, Pandas, Seaborn, Matplotlib
+- **Key Learning:** Data cleaning, grouping, visualization and insight reporting.
+- **Folder:** `spotify-data/`
+
+### 3) Automation – Excel Report Generator
+- **Description:** Creates monthly sales reports (pivot-like summaries, charts) automatically.
+- **Tech Stack:** Python, openpyxl, Pandas
+- **Key Learning:** File I/O, Excel automation, reproducible reporting.
+- **Folder:** `excel-report-automation/`
+
+---
+
+## 🚀 Skills Highlighted
+- Web scraping: **Requests**, **BeautifulSoup** (opsiyonel: **Selenium**)
+- Data wrangling & EDA: **Pandas**, **NumPy**
+- Visualization: **Matplotlib**, **Seaborn**
+- Automation: CSV/Excel iş akışları (**openpyxl**), temel CLI araçları
+- Version control & documentation: **Git/GitHub**, clear READMEs
+
+---
+
+## 📌 Notes
+This repository is continuously updated as I complete more projects in Python for Data Science and Automation. 

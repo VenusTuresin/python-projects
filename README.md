@@ -13,7 +13,7 @@ Each project focuses on real-world datasets and delivers clear, actionable insig
 - **Key Learning:** Automating data collection, cleaning HTML data, trend visualization.
 - **Folder:** `amazon-price-tracker/`
 
-### 2) Data Analysis – Spotify Top Hits
+### 2) Data Analysis – Spotify Top Hits 🎶
 - **Description:** Exploratory data analysis of Spotify’s Top Hits dataset, focusing on track popularity, artists, and audio features.
 - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn
 - **Key Learning:** Data wrangling, statistical summaries, correlation analysis, and visualization of music-related datasets.

@@ -26,6 +26,13 @@ Each project focuses on real-world datasets and delivers clear, actionable insig
 - **Key Learning:** File I/O, Excel automation, reproducible reporting.
 - **Folder:** `excel-report-automation/`
 
+### 4) Data Analysis - Retail Sales 📊
+- **Description:** Exploratory data analysis on a real-world sales dataset, focusing on customer demographics, revenue patterns, and product performance.  
+- **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn  
+- **Key Learning:** Data cleaning, handling categorical variables, correlation analysis, and generating business insights from sales trends.  
+- **Files:** [sales-data](./sales-data)  
+   - Jupyter Notebook: `Real Life data analysis.ipynb`  
+   - Dataset: `sales_data.csv`  
 ---
 
 ## 🚀 Skills Highlighted

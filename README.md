@@ -42,10 +42,10 @@ Each project focuses on real-world datasets and delivers clear, actionable insig
 ---
 
 ## 🚀 Skills Highlighted
-- Web scraping: **Requests**, **BeautifulSoup** (opsiyonel: **Selenium**)
+- Web scraping: **Requests**, **BeautifulSoup**, **Selenium**)
 - Data wrangling & EDA: **Pandas**, **NumPy**
 - Visualization: **Matplotlib**, **Seaborn**
-- Automation: CSV/Excel iş akışları (**openpyxl**), temel CLI araçları
+- Automation: CSV/Excel(**openpyxl**)
 - Version control & documentation: **Git/GitHub**, clear READMEs
 
 ---

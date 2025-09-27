@@ -38,17 +38,3 @@ Understand revenue & profit drivers across products, customer segments, and time
 ```bash
 pip install pandas numpy matplotlib seaborn
 # open the notebook and run all cells 
-
-### Visualizations
-
-#### 1. Revenue by Product Category
-*Bikes clearly dominate the sales, while Accessories and Clothing play smaller but steady roles.*
-
-#### 2. Yearly Revenue Growth (2013–2016)
-*Consistent upward trend with +16.23% growth, highlighting business expansion.*
-
-#### 3. Customer Segment Comparison
-*Adults (35–64) contribute significantly higher average order revenue compared to Youth.*
-
-#### 4. Top 10 Revenue-Generating Products
-*Just 10 products bring in over one-third of total revenue, confirming the Pareto principle (80/20 rule).*

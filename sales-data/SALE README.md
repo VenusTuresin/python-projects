@@ -31,29 +31,29 @@ Understand revenue & profit drivers across products, customer segments, and time
 - Certain states consistently outperformed others, suggesting geographic concentration of demand.  
 
 ## 📊 Visualizations & Insights
-- ** Revenue vs. Profit
+- **Revenue vs. Profit
 <img width="639" height="525" alt="Revenue Profit" src="https://github.com/user-attachments/assets/c1a90c89-0db8-4d04-8c7d-b0e49ffc43d8" />
 
 - There is a strong positive correlation between revenue and profit. High-revenue transactions also generate high profit.
   
-- ** Top Selling Age Groups
+- **Top Selling Age Groups
 <img width="1033" height="576" alt="Top Selling Age Groups" src="https://github.com/user-attachments/assets/837e665a-ed9a-4f30-9211-3722eecf2ddf" />
 
 - Adults (35–64) form the largest customer group. Young Adults (25–34) follow as the second most important group, while Youth (<25) contribute less to total sales.
   
-- ** Profit by Age Group
+- **Profit by Age Group
 
 <img width="911" height="567" alt="Profit Age Group" src="https://github.com/user-attachments/assets/57d00c17-2d6e-4423-9d6f-e619d0b0fb1c" />
 
 - Profit distribution shows that Adults (35–64) and Young Adults (25–34) generate the highest profit. Youth and Seniors (64+) contribute significantly less.
   
-- ** Profit Distribution
+- **Profit Distribution
   
 <img width="1031" height="448" alt="Ekran Resmi 2025-09-26 15 49 28" src="https://github.com/user-attachments/assets/71c0bc8b-223a-4763-b6ad-fa7c3200821a" />
 
 - Profit values are heavily concentrated at lower levels, with a few outliers generating very high profit. This indicates that a small share of transactions contributes disproportionately to total profit (Pareto effect).
   
-- ** Age Group Distribution
+- **Age Group Distribution
   
 <img width="611" height="440" alt="Ekran Resmi 2025-09-26 15 49 42" src="https://github.com/user-attachments/assets/5e332ace-1a2d-4f31-a519-08f8e9450479" />
 

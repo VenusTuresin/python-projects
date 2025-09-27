@@ -7,11 +7,11 @@ Each project focuses on real-world datasets and delivers clear, actionable insig
 
 ## 📂 Projects
 
-### 1) Web Scraping – Amazon Price Tracker
-- **Description:** Scrapes product prices and tracks changes over time.
-- **Tech Stack:** Python, Requests, BeautifulSoup, Pandas, Matplotlib
-- **Key Learning:** Automating data collection, cleaning HTML data, trend visualization.
-- **Folder:** `amazon-price-tracker/`
+### 1) Web Scraping – Books to Scrape 📚
+- **Description:** Scraped all books from [Books to Scrape](https://books.toscrape.com), collecting title, price, rating, reviews, availability, UPC, type, and description.
+- **Tech Stack:** Python, Requests, lxml, Pandas, OpenPyXL, tqdm
+- **Key Learning:** Pagination, XPath parsing, error logging, exporting structured Excel datasets.
+- **Folder:** `books-to-scrape/`
 
 ### 2) Data Analysis – Spotify Top Hits 🎶
 - **Description:** Exploratory data analysis of Spotify’s Top Hits dataset, focusing on track popularity, artists, and audio features.
@@ -32,7 +32,13 @@ Each project focuses on real-world datasets and delivers clear, actionable insig
 - **Key Learning:** Data cleaning, handling categorical variables, correlation analysis, and generating business insights from sales trends.  
 - **Files:** [sales-data](./sales-data)  
    - Jupyter Notebook: `Real Life data analysis.ipynb`  
-   - Dataset: `sales_data.csv`  
+   - Dataset: `sales_data.csv`
+
+### 5) Web Scraping – Harrods Teabags ☕️
+- **Description:** Automated scraping of the Harrods website, filtering the **Tea → Tea Bags** category, applying **Newest** sorting, and extracting product details (title, brand, price, URL, etc.).
+- **Tech Stack:** Python, Selenium (cookies + filters + sort), Requests + lxml (AJAX), Pandas
+- **Key Learning:** Combining **UI automation** for state (Selenium) with **API scraping** for performance (AJAX).
+- **Folder:** `harrods-teabags/`
 ---
 
 ## 🚀 Skills Highlighted

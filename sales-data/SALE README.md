@@ -1,4 +1,4 @@
-# Retail Sales – Real-Life Data Analysis 📊
+# 📊 Retail Sales – Real-Life Data Analysis 
 
 ## Goal
 Understand revenue & profit drivers across products, customer segments, and time.
@@ -60,11 +60,11 @@ Understand revenue & profit drivers across products, customer segments, and time
 - The customer base is dominated by Adults (35–64), while Youth (<25) and Seniors (64+) represent smaller market segments.
 
   
-## Files
+## Output Files
 - `Real Life data analysis.ipynb` – main notebook with full workflow  
 - `sales_data.csv` – raw dataset (source: FreeCodeCamp) 
 
-## How to Run
+## ▶️ How to Run
 ```bash
 pip install pandas numpy matplotlib seaborn
 # open the notebook and run all cells 

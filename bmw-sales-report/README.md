@@ -5,7 +5,7 @@ It generates pivot-like summaries across multiple dimensions (year, region, mode
 
 ---
 
-## 📂 Output Files
+## 📂 Project Structure 
 - `BMW sales data (2010-2024).csv` → Raw dataset downloaded from Kaggle  
 - `ExcelAutomationwithPython.py` → Script for automated report generation and visualization  
 - `bmw_sales_report.xlsx` → Final Excel report (multi-sheet: yearly sales, region, top models, fuel type)  

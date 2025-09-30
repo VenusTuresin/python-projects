@@ -19,11 +19,11 @@ Each project focuses on real-world datasets and delivers clear, actionable insig
 - **Key Learning:** Data wrangling, statistical summaries, correlation analysis, and visualization of music-related datasets.
 - **Folder**: [spotify-top-hits](./spotify-top-hits)
 
-### 3) Automation – Excel Report Generator
-- **Description:** Creates monthly sales reports (pivot-like summaries, charts) automatically.
-- **Tech Stack:** Python, openpyxl, Pandas
-- **Key Learning:** File I/O, Excel automation, reproducible reporting.
-- **Folder:** `excel-report-automation/`
+### 3) Automation – BMW Sales Report 🚙
+- **Description:** Automated generation of BMW sales reports (2010–2024), including yearly trends, regional sales, top 10 models, and fuel-type price comparisons. Exports results into Excel with charts.  
+- **Tech Stack:** Python, Pandas, openpyxl, Matplotlib  
+- **Key Learning:** Automating business reports, pivot-like summaries, Excel export with multiple sheets, and professional data visualization.  
+- **Folder:** [excel-report-automation](./excel-report-automation)  
 
 ### 4) Data Analysis - Retail Sales 📊
 - **Description:** Exploratory data analysis on a real-world sales dataset, focusing on customer demographics, revenue patterns, and product performance.  

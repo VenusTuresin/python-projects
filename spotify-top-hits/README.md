@@ -1,4 +1,4 @@
-# Spotify Top Hits – Data Analysis 🎶
+# 🎶 Spotify Top Hits – Data Analysis 
 
 This project explores Spotify’s **Top Hits (2000–2019)** dataset.  
 Main goals were to identify the **most popular artists** and analyze how **Rihanna’s music features evolved over time**.
@@ -50,6 +50,6 @@ Example plots included in the notebook:
 
 ---
 
-## 🚀 Final Thoughts
+## Final Thoughts
 This project demonstrates how music analytics can uncover both **market trends** (top artists) and **artistic evolution** (Rihanna). It combines **data cleaning, visualization, and storytelling** in a real-world dataset.
 

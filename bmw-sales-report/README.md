@@ -1,11 +1,11 @@
-# BMW Sales Report Automation 🚙
+# 🚙 BMW Sales Report Automation 
 
 This project automates the creation of an Excel sales report and visualizations from the BMW Worldwide Sales (2010–2024) dataset.
 It generates pivot-like summaries across multiple dimensions (year, region, model, fuel type) and produces charts for quick insights.
 
 ---
 
-## 📂 Project Structure
+## 📂 Output Files
 - `BMW sales data (2010-2024).csv` → Raw dataset downloaded from Kaggle  
 - `ExcelAutomationwithPython.py` → Script for automated report generation and visualization  
 - `bmw_sales_report.xlsx` → Final Excel report (multi-sheet: yearly sales, region, top models, fuel type)  

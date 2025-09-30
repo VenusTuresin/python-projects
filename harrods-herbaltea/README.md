@@ -60,7 +60,7 @@ Sample of the exported dataset (`export_herbaltea.xlsx`):
 
 ---
 
-## 🚀 How to Run
+## ▶️ How to Run
 ```bash
 # Install dependencies
 pip install selenium lxml pandas openpyxl tqdm

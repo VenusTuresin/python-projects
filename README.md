@@ -18,7 +18,6 @@ Each project focuses on real-world datasets and delivers clear, actionable insig
 - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn
 - **Key Learning:** Data wrangling, statistical summaries, correlation analysis, and visualization of music-related datasets.
 - **Folder**: [spotify-top-hits](./spotify-top-hits)
-- Includes: Jupyter Notebook (`Programming_TopHitsSpotify.ipynb`), dataset (`songs_normalize.csv`), and presentation (`SpotifyTopHits.pdf`)
 
 ### 3) Automation – Excel Report Generator
 - **Description:** Creates monthly sales reports (pivot-like summaries, charts) automatically.
@@ -31,13 +30,11 @@ Each project focuses on real-world datasets and delivers clear, actionable insig
 - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn  
 - **Key Learning:** Data cleaning, handling categorical variables, correlation analysis, and generating business insights from sales trends.  
 - **Folder:** [sales-data](./sales-data)  
-   - Jupyter Notebook: `Real Life data analysis.ipynb`  
-   - Dataset: `sales_data.csv`
 
-### 5) Web Scraping – Harrods Teabags ☕️
-- **Description:** Automated scraping of the Harrods website, filtering the **Tea → Tea Bags** category, applying **Newest** sorting, and extracting product details (title, brand, price, URL, etc.).
-- **Tech Stack:** Python, Selenium (cookies + filters + sort), Requests + lxml (AJAX), Pandas
-- **Key Learning:** Combining **UI automation** for state (Selenium) with **API scraping** for performance (AJAX).
+### 5) Web Scraping – Harrods Herbaltea ☕️  
+- **Description:** Automated scraper for the Harrods website. Navigates to *Tea → Herbal Tea*, dismisses cookie banners, applies filters, sorts products by *Newest*, and extracts product details such as **title, brand, price, color, size, and product URL**.  
+- **Tech Stack:** Python, Selenium (UI automation for cookies, filters, and sorting), Pandas, Excel (data export).  
+- **Key Learning:** Gained experience in handling **dynamic web content** with Selenium and exporting clean, structured data for analysis.  
 - **Folder:** [harrods-herbaltea](./harrods-herbaltea) 
 ---
 

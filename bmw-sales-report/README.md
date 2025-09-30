@@ -17,7 +17,7 @@ It generates pivot-like summaries across multiple dimensions (year, region, mode
 ---
 
 ## 🛠 Tech Stack
-- **Python** 🐍  
+- **Python**   
 - **Pandas** → Data wrangling & Excel export  
 - **OpenPyXL** → Excel automation  
 - **Matplotlib** → Charts and visualizations
@@ -70,19 +70,6 @@ Each chart highlights different business insights derived from the dataset *(201
 
 ---
 ## ▶️ How to Run
-
-### 1) Create & activate virtual environment 
-
-```bash
-# macOS / Linux
-python3 -m venv .venv
-source .venv/bin/activate
-
-# Windows
-python -m venv .venv
-.venv\Scripts\activate
-
-## 🚀 How to Run
 ```bash
 # Install dependencies
 pip install pandas openpyxl matplotlib

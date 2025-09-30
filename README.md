@@ -32,9 +32,9 @@ Each project focuses on real-world datasets and delivers clear, actionable insig
 - **Folder:** [sales-data](./sales-data)  
 
 ### 5) Web Scraping – Harrods Herbaltea ☕️  
-- **Description:** Automated scraper for the Harrods website. Navigates to *Tea → Herbal Tea*, dismisses cookie banners, applies filters, sorts products by *Newest*, and extracts product details such as **title, brand, price, color, size, and product URL**.  
-- **Tech Stack:** Python, Selenium (UI automation for cookies, filters, and sorting), Pandas, Excel (data export).  
-- **Key Learning:** Gained experience in handling **dynamic web content** with Selenium and exporting clean, structured data for analysis.  
+- **Description:** Scraped the *Herbal Tea* section of the Harrods website. Automated navigation (cookies, filters, sorting) and extracted details like **title, brand, price, color, size, and product URL**.  
+- **Tech Stack:** Python, Selenium (UI automation), Pandas, Excel  
+- **Key Learning:** Working with **dynamic pages** (cookies, filters, dropdowns) using Selenium and exporting results to structured datasets.    
 - **Folder:** [harrods-herbaltea](./harrods-herbaltea) 
 ---
 

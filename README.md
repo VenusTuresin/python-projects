@@ -17,7 +17,7 @@ Each project focuses on real-world datasets and delivers clear, actionable insig
 - **Description:** Exploratory data analysis of Spotify’s Top Hits dataset, focusing on track popularity, artists, and audio features.
 - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn
 - **Key Learning:** Data wrangling, statistical summaries, correlation analysis, and visualization of music-related datasets.
-- **File**: [spotify-top-hits](./spotify-top-hits)
+- **Folder**: [spotify-top-hits](./spotify-top-hits)
 - Includes: Jupyter Notebook (`Programming_TopHitsSpotify.ipynb`), dataset (`songs_normalize.csv`), and presentation (`SpotifyTopHits.pdf`)
 
 ### 3) Automation – Excel Report Generator
@@ -30,7 +30,7 @@ Each project focuses on real-world datasets and delivers clear, actionable insig
 - **Description:** Exploratory data analysis on a real-world sales dataset, focusing on customer demographics, revenue patterns, and product performance.  
 - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn  
 - **Key Learning:** Data cleaning, handling categorical variables, correlation analysis, and generating business insights from sales trends.  
-- **Files:** [sales-data](./sales-data)  
+- **Folder:** [sales-data](./sales-data)  
    - Jupyter Notebook: `Real Life data analysis.ipynb`  
    - Dataset: `sales_data.csv`
 
@@ -38,11 +38,11 @@ Each project focuses on real-world datasets and delivers clear, actionable insig
 - **Description:** Automated scraping of the Harrods website, filtering the **Tea → Tea Bags** category, applying **Newest** sorting, and extracting product details (title, brand, price, URL, etc.).
 - **Tech Stack:** Python, Selenium (cookies + filters + sort), Requests + lxml (AJAX), Pandas
 - **Key Learning:** Combining **UI automation** for state (Selenium) with **API scraping** for performance (AJAX).
-- **Folder:** `harrods-teabags/`
+- **Folder:** [harrods-herbaltea](./harrods-herbaltea) 
 ---
 
 ## 🚀 Skills Highlighted
-- Web scraping: **Requests**, **BeautifulSoup**, **Selenium**)
+- Web scraping: **Requests**, **BeautifulSoup**, **Selenium**
 - Data wrangling & EDA: **Pandas**, **NumPy**
 - Visualization: **Matplotlib**, **Seaborn**
 - Automation: CSV/Excel(**openpyxl**)

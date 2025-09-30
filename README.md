@@ -23,7 +23,7 @@ Each project focuses on real-world datasets and delivers clear, actionable insig
 - **Description:** Automated generation of BMW sales reports (2010–2024), including yearly trends, regional sales, top 10 models, and fuel-type price comparisons. Exports results into Excel with charts.  
 - **Tech Stack:** Python, Pandas, openpyxl, Matplotlib  
 - **Key Learning:** Automating business reports, pivot-like summaries, Excel export with multiple sheets, and professional data visualization.  
-- **Folder:** [excel-report-automation](./excel-report-automation)  
+- **Folder:** [bmw-sales-report](./bmw-sales-report)  
 
 ### 4) Data Analysis - Retail Sales 📊
 - **Description:** Exploratory data analysis on a real-world sales dataset, focusing on customer demographics, revenue patterns, and product performance.  

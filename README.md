@@ -11,7 +11,7 @@ Each project focuses on real-world datasets and delivers clear, actionable insig
 - **Description:** Scraped all books from [Books to Scrape](https://books.toscrape.com), collecting title, price, rating, reviews, availability, UPC, type, and description.
 - **Tech Stack:** Python, Requests, lxml, Pandas, OpenPyXL, tqdm
 - **Key Learning:** Pagination, XPath parsing, error logging, exporting structured Excel datasets.
-- **Folder:** `books-to-scrape/`
+- **Folder:** [books-to-scrape](./books-to-scrape)
 
 ### 2) Data Analysis – Spotify Top Hits 🎶
 - **Description:** Exploratory data analysis of Spotify’s Top Hits dataset, focusing on track popularity, artists, and audio features.
